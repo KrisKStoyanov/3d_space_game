@@ -1,1 +1,1 @@
-# C-Legacy-OpenGL-Game
+# 3D Sandbox powered by Legacy OpenGL
